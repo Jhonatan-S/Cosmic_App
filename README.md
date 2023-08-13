@@ -1,7 +1,10 @@
 # cosmic_app
 
-A new Flutter project.
+Solar system application on flutter.
+Design found on figma and recreated from code.
+I simulated an API request with asynchronous functions
 
+https://www.figma.com/file/dir3uOgOqQbUTlF7Qk294U/Cosmic-%E2%80%94-Free-Flutter-App-UI-Template-(Community)?type=design&node-id=629-1383&mode=design&t=TlAMP4gKRhuwTVyc-0
 ## Getting Started
 
 This project is a starting point for a Flutter application.
